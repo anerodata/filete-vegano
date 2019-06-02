@@ -1,0 +1,69 @@
+[
+	{
+		"sName":"music",
+		"aData" : [
+			{
+				"sTitle":"El Bucle",
+				"sDate":"30/05/2019",
+				"aSong": [
+					{
+						"sName":"4THERIAL",
+						"aAuthor":["Jacky Molina", "Lirical Psycho", "No Name"],
+						"bLyric":true
+					},
+
+					{
+						"sName":"BARRAS-EN-LA-RENFE",
+						"aAuthor":["Jacky Molina"],
+						"bLyric":false
+					}
+				]
+				
+			},
+
+			{
+				"sTitle":"mixtape-2",
+				"sFecha":"30/02/2015",
+				"aSong": [
+					{
+						"sName":"4THERIAL",
+						"aAuthor":["Jacky Molina", "Lirical Psycho", "No Name"],
+						"bLyric":true
+					},
+
+					{
+						"sName":"BARRAS-EN-LA-RENFE",
+						"aAuthor":["Jacky Molina"],
+						"bLyric":false
+					}
+				]
+			}			
+		]
+	},
+
+	{
+		"sName":"video",
+		"aData" : [
+			{
+				"sTitle" : "LACALLE clip",
+				"sDate":"15/09/2018",
+				"aAuthor" : ["No Name"],
+				"sUrl" : "https://www.youtube.com/watch?v=YMxHKVx5HvY"
+			},
+
+			{
+				"sTitle" : "Raíces",
+				"sDate":"03/08/2018",
+				"aAuthor" : ["Dee'M"],
+				"sUrl" : "https://www.youtube.com/watch?v=7JeXWuFNEpc"
+			},
+
+			{
+				"sTitle" : "Volverán luego",
+				"sDate":"02/08/2018",
+				"aAuthor" : ["Dee'M"],
+				"sUrl" : "https://www.youtube.com/watch?v=iBoDzCabhXs"
+			}
+		]
+	}
+]
