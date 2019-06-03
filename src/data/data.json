@@ -7,14 +7,44 @@
 				"sDate":"30/05/2019",
 				"aSong": [
 					{
-						"sName":"4THERIAL",
-						"aAuthor":["Jacky Molina", "Lirical Psycho", "No Name"],
-						"bLyric":true
+						"sName":"1. EL BUCLE ",
+						"aAuthor":["Dee M", "Anto"],
+						"bLyric":false
 					},
 
 					{
-						"sName":"BARRAS-EN-LA-RENFE",
-						"aAuthor":["Jacky Molina"],
+						"sName":"2. C1FR4S",
+						"aAuthor":["Dee M", "Anto"],
+						"bLyric":false
+					},
+
+					{
+						"sName":"3. PSICOSIS",
+						"aAuthor":["Anto", "Jacky Mollyna"],
+						"bLyric":false
+					},
+
+					{
+						"sName":"4. L.E.D.S  ",
+						"aAuthor":["Dee M", "Anto"],
+						"bLyric":false
+					},
+
+					{
+						"sName":"5. THE BRIDGE (INTERLUDIO)",
+						"aAuthor":["Dee M", "Anto"],
+						"bLyric":false
+					},
+
+					{
+						"sName":"6. SKILLS",
+						"aAuthor":["Dee M", "Anto", "Nature William"],
+						"bLyric":false
+					},
+
+					{
+						"sName":"7. BAJA AL TRASH (TRASHBOW)",
+						"aAuthor":["Dee M", "Vicen"],
 						"bLyric":false
 					}
 				]
@@ -44,6 +74,13 @@
 	{
 		"sName":"video",
 		"aData" : [
+			{
+				"sTitle" : "BAJA AL TRASH - TRASHBOW",
+				"sDate":"30/05/2019",
+				"aAuthor" : ["Vicen y Dee M"],
+				"sUrl" : "https://www.youtube.com/watch?v=maXP5Lrl8tE"
+			},
+
 			{
 				"sTitle" : "LACALLE clip",
 				"sDate":"15/09/2018",

@@ -11,14 +11,18 @@
 @import url('https://fonts.googleapis.com/css?family=Rhodium+Libre');
 
 *{
+	box-sizing: border-box;
+	font-family: 'Titillium Web', sans-serif;
+}
+
+div#playerIface{
 	user-drag: none; 
 	user-select: none;
 	-moz-user-select: none;
 	-webkit-user-drag: none;
 	-webkit-user-select: none;
 	-ms-user-select: none;
-	box-sizing: border-box;
-	font-family: 'Titillium Web', sans-serif;
+	
 }
 body{
 	background-color:   #efefef;
@@ -313,6 +317,7 @@ div#screenIface div#screenTitle{
 
 div#screenIface div#screenTitle div#screenTitleWrapper{
 	overflow: auto;
+	height: 32px;
 }
 
 div.screwIface{
@@ -575,7 +580,7 @@ div.iframeContainer iframe{
 section#socialSection{
 	text-align: center;
 	margin-top: 16px;
-	border-top: 1px dotted #ca99ff;
+	/*border-top: 1px dotted #ca99ff;*/
 	float: left;
 	width: 100%;
 }
