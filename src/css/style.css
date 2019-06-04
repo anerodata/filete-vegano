@@ -26,6 +26,9 @@ div#playerIface{
 }
 body{
 	background-color:   #efefef;
+	
+	background-image: url("https://www.transparenttextures.com/patterns/escheresque.png");
+/* This is mostly intended for prototyping; please download the pattern and re-host for production environments. Thank you! */
 }
 
 div#page{
@@ -317,7 +320,7 @@ div#screenIface div#screenTitle{
 
 div#screenIface div#screenTitle div#screenTitleWrapper{
 	overflow: auto;
-	height: 32px;
+	height: 100%;
 }
 
 div.screwIface{
