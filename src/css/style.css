@@ -27,7 +27,7 @@ div#playerIface{
 body{
 	background-color:   #efefef;
 	
-	background-image: url("https://www.transparenttextures.com/patterns/escheresque.png");
+	background-image: url("../img/web/png/escheresque.png");
 /* This is mostly intended for prototyping; please download the pattern and re-host for production environments. Thank you! */
 }
 
@@ -84,6 +84,7 @@ footer img{
 	border-radius: 50%;
 	margin-top: 10px;
 	border: 1px dashed #7b00ff;
+	max-width: 125px;
 }
 
 div#playerIface{
@@ -157,6 +158,7 @@ div#listPlayer ol{
 }
 
 div#listPlayer ol li{
+	box-shadow: 6px 5px 13px #888888;
 	border-radius: 3px;
 	background-color: #cccccc;
 	padding: 5px;
@@ -607,6 +609,10 @@ section#socialSection img{
 	div#listPlayer, div#terciaryIface{
 		float: none;
 		margin: auto;
+	}
+
+	div#listPlayer ol li {
+		margin-right: 15px;
 	}
 
 	div#terciaryIface{
